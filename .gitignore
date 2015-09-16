@@ -1,0 +1,8 @@
+target-eclipse
+target
+.settings
+*.log
+.link_to_grails_plugins
+.idea
+*.iml
+
